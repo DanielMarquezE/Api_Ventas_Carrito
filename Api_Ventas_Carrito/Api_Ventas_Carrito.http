@@ -1,0 +1,6 @@
+@Api_Ventas_Carrito_HostAddress = http://localhost:5146
+
+GET {{Api_Ventas_Carrito_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
